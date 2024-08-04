@@ -1,0 +1,9 @@
+/Users/jachant/Desktop/ВШЭ/программированиие на C++/chat/cmake-build-debug/CMakeFiles/both.dir
+/Users/jachant/Desktop/ВШЭ/программированиие на C++/chat/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/jachant/Desktop/ВШЭ/программированиие на C++/chat/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/jachant/Desktop/ВШЭ/программированиие на C++/chat/cmake-build-debug/server/CMakeFiles/Server.dir
+/Users/jachant/Desktop/ВШЭ/программированиие на C++/chat/cmake-build-debug/server/CMakeFiles/edit_cache.dir
+/Users/jachant/Desktop/ВШЭ/программированиие на C++/chat/cmake-build-debug/server/CMakeFiles/rebuild_cache.dir
+/Users/jachant/Desktop/ВШЭ/программированиие на C++/chat/cmake-build-debug/client/CMakeFiles/Client.dir
+/Users/jachant/Desktop/ВШЭ/программированиие на C++/chat/cmake-build-debug/client/CMakeFiles/edit_cache.dir
+/Users/jachant/Desktop/ВШЭ/программированиие на C++/chat/cmake-build-debug/client/CMakeFiles/rebuild_cache.dir

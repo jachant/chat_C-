@@ -1,0 +1,24 @@
+# ninja log v5
+6	662	1714904578074334847	client/CMakeFiles/Client.dir/source/Bubble.cpp.o	f685c3b4fa96075a
+1	575	1714466886796448964	client/CMakeFiles/Client.dir/source/Button.cpp.o	180e2b5b2b05b27e
+8	600	1714466957113344396	client/CMakeFiles/Client.dir/source/Reader.cpp.o	1da8d588e28dcc11
+5	678	1714904578087120901	client/CMakeFiles/Client.dir/source/App.cpp.o	7318c427182663c2
+5	675	1714904578085828245	client/CMakeFiles/Client.dir/source/Textbox.cpp.o	a6929669f23b1cb2
+5	661	1714904578072733278	client/CMakeFiles/Client.dir/source/main.cpp.o	47becd596974ffb5
+678	2467	1714904579881864233	client/Client	e3c0e81888203c22
+20	722	1714473020977302431	client/CMakeFiles/Client.dir/source/RoundedRect.cpp.o	fa95e5838ce985d
+6	669	1714904578081532242	client/CMakeFiles/Client.dir/source/Login.cpp.o	2e8acba7d12fbf97
+9	3874	1722279969424333510	client/CMakeFiles/Client.dir/source/Button.cpp.o	180e2b5b2b05b27e
+8	3907	1722279969458085911	client/CMakeFiles/Client.dir/source/main.cpp.o	47becd596974ffb5
+8	3911	1722279969463022069	client/CMakeFiles/Client.dir/source/Reader.cpp.o	1da8d588e28dcc11
+9	3919	1722279969471457805	client/CMakeFiles/Client.dir/source/Bubble.cpp.o	f685c3b4fa96075a
+8	3939	1722279969491806187	client/CMakeFiles/Client.dir/source/Textbox.cpp.o	a6929669f23b1cb2
+10	3959	1722279969511252196	client/CMakeFiles/Client.dir/source/ChatLabel.cpp.o	831ebd793758b1d
+9	3977	1722279969529675123	client/CMakeFiles/Client.dir/source/Login.cpp.o	2e8acba7d12fbf97
+8	4019	1722279969570891845	client/CMakeFiles/Client.dir/source/App.cpp.o	7318c427182663c2
+3907	4259	1722279969813308852	client/CMakeFiles/Client.dir/source/Chat.cpp.o	12f064eb960a9783
+3875	4371	1722279969924514748	client/CMakeFiles/Client.dir/source/Server.cpp.o	468f83afb9fab60e
+4371	4556	1722279970109144187	client/Client	58e82d77f8aaeaf9
+0	457	1722279975776519699	server/CMakeFiles/Server.dir/Chat.cpp.o	3b4c610c7c20a68a
+0	462	1722279975782204731	server/CMakeFiles/Server.dir/User.cpp.o	cfb79d56931891f0
+0	591	1722279975910026348	server/CMakeFiles/Server.dir/Server.cpp.o	ea0a7c5ef1246852
